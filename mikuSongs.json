@@ -1,17 +1,677 @@
-  [
-    {
-      "url": "https://audio.jukehost.co.uk/SAjjayj4G68YwuZg9LAkE4vyCiQ3jJmV",
-      "name": "Age age again 2",
-      "artist": "Hatsune Miku"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/carlitoxenlaweb/mp3-ionic/master/src/assets/music/001.mp3",
-      "name": "Musica de elevador",
-      "artist": "Hatsune Miku"
-    },
-    {
-      "url": "https://lgsusmx.github.io/PersonalProviders/Age%20age%20again.mp3",
-      "name": "Testing updated ",
-      "artist": "Hatsune Miku"
-    }
-  ]
+[
+  {
+    "url": "https://audio.jukehost.co.uk/SAjjayj4G68YwuZg9LAkE4vyCiQ3jJmV",
+    "name": "Ageage Again",
+    "artist": "Hatsune Miku"
+  },
+  {
+    "url": "https://audio.jukehost.co.uk/XHGo2GeyaCqG2K1pjGY8IUeZdTIrzUPl",
+    "name": "Ama no jaku",
+    "artist": "Gumi Megpoid"
+  },
+  {
+    "url": "https://audio.jukehost.co.uk/nfk7h2fS8rjdzOOdRpdpahD83KRl6d9r",
+    "name": "39",
+    "artist": "Hatsune Miku"
+  },
+  {
+    "url": "https://audio.jukehost.co.uk/pnfWEKkdk7dH4uOIdpxfI3cSqA5gEhhC",
+    "name": "MUTE",
+    "artist": "Hatsune Miku"
+  },
+  {
+    "url": "https://audio.jukehost.co.uk/iwJ50nfJJBW3XMwZ0NWtVekMKBABMQQd",
+    "name": "Renai saiban",
+    "artist": "Hatsune Miku"
+  },
+  {
+    "url": "https://audio.jukehost.co.uk/uqqJsheWaMyXpnnZTqqOHXeR2QF3syLb",
+    "name": "MikuFiesta",
+    "artist": "Hatsune Miku"
+  },
+  {
+    "url": "https://audio.jukehost.co.uk/rx4cqlrrXOESo7d44OjvUdjg43pvcO6c",
+    "name": "Anamanaguchi",
+    "artist": "Hatsune Miku"
+  },
+  {
+    "url": "https://audio.jukehost.co.uk/ERddcyJlSp5xZ3IsscGNDcKxnvRUNbNR",
+    "name": "Secret Police",
+    "artist": "Hatsune Miku"
+  },
+  {
+    "url": "https://audio.jukehost.co.uk/zhmletAP6CwPwJzVoVY7eVuKbPqBsMJG",
+    "name": "12Funclub",
+    "artist": "Kagamine Rin & Len"
+  },
+  {
+    "url": "https://audio.jukehost.co.uk/OCMM5RXp6q0B3ILMgXfOf6XB7nFBNSE4",
+    "name": "Online Game Addicts Sprechchor",
+    "artist": "Hatsune Miku"
+  },
+  {
+    "url": "https://audio.jukehost.co.uk/7BteJQoH0LFJRpB8VOsjPmXGj0JKQodb",
+    "name": "Envy Catwalk",
+    "artist": "Hatsune Miku"
+  },
+  {
+    "url": "https://audio.jukehost.co.uk/Zte8USmVGfQ7TFtjHDGBhEOtJhPSwH5E",
+    "name": "Freely Tomorrow",
+    "artist": "Hatsune Miku"
+  },
+  {
+    "url": "https://audio.jukehost.co.uk/b5VOnZayBBqnpJv9e1KBszainfRqRSeN",
+    "name": "Liar Dance",
+    "artist": "Hatsune Miku"
+  },
+  {
+    "url": "https://audio.jukehost.co.uk/IC4fJcp4CP9oRWthlvwKrGLstRueOXa3",
+    "name": "Sing & Smile",
+    "artist": "Hatsune Miku"
+  },
+  {
+    "url": "https://audio.jukehost.co.uk/FVKQgW1WP0sqbH6X2oov1Fvkjt8vtemX",
+    "name": "Bless Your Breath",
+    "artist": "Hatsune Miku"
+  },
+  {
+    "url": "https://audio.jukehost.co.uk/bfFAsYmWvX3Em4GUjkw6f5eyZcgoFzsj",
+    "name": "Positive Dance Time",
+    "artist": "Otomachi Una & Kagamine Rin"
+  },
+  {
+    "url": "https://audio.jukehost.co.uk/kznjTItzRTcOs0uE5atxaWVG6T2SlA4h",
+    "name": "Electric Angel",
+    "artist": "Kagamine Rin & Len"
+  },
+  {
+    "url": "https://audio.jukehost.co.uk/NkC0uP1GVS056EI1V3C4rrAEhLessJQn",
+    "name": "Cendrillon",
+    "artist": "Hatsune Miku & Kaito"
+  },
+  {
+    "url": "https://audio.jukehost.co.uk/ZXJYsInqvBk2xjH2t2eNkizJZZhNGTmq",
+    "name": "Sacred Spear Explosion Boy",
+    "artist": "Kagamine Len"
+  },
+  {
+    "url": "https://audio.jukehost.co.uk/e806EgkQWgdGg3jCLkJD1GnmCEkLc9Hj",
+    "name": "Karakuri Pierrot",
+    "artist": "Hatsune Miku"
+  },
+  {
+    "url": "https://audio.jukehost.co.uk/FNULkGuzLI6nOlBxThBTdNSjRHPDuDU2",
+    "name": "Plus Boy",
+    "artist": "Kagamine Len"
+  },
+  {
+    "url": "https://audio.jukehost.co.uk/s8kIwQoS9tXgRvEWEA3yhyoaxJ2S6YtJ",
+    "name": "Mind Brand",
+    "artist": "Gumi Megpoid"
+  },
+  {
+    "url": "https://audio.jukehost.co.uk/UBuskMDElWXtqwmfRU7s3F25WT7uk3FW",
+    "name": "Ten Thousand Stars",
+    "artist": "Hatsune Miku"
+  },
+  {
+    "url": "https://audio.jukehost.co.uk/obsOyoPIQRgRtMlcWCO2Gug3TOQg0iQ2",
+    "name": "Android Girl",
+    "artist": "Hatsune Miku"
+  },
+  {
+    "url": "https://audio.jukehost.co.uk/RkyFtW6zFF4H9EvIbp199vrnsP9JVVTA",
+    "name": "Streaming Heart",
+    "artist": "Miku Hatsune"
+  },
+  {
+    "url": "https://audio.jukehost.co.uk/vWcBMMyxAq7BCRENfeqYRvoRmgW6WCrk",
+    "name": "Two Breaths walking DECO*27 Reloaded",
+    "artist": "Hatsune Miku"
+  },
+  {
+    "url": "https://audio.jukehost.co.uk/PwhRZf2U4Hq4i3k7hJGJcExrV663YYmv",
+    "name": "Positive parade",
+    "artist": "Hatsune Miku"
+  },
+  {
+    "url": "https://audio.jukehost.co.uk/qu7BKaWGK2bDEx6TrBbhvelLYiIrW0cI",
+    "name": "Two Breaths walking",
+    "artist": "Kagamine Rin"
+  },
+  {
+    "url": "https://audio.jukehost.co.uk/iLOgYSoPXmiDlQTAL8rTDm5OUgehLdVj",
+    "name": "Hibana",
+    "artist": "Hatsune Miku"
+  },
+  {
+    "url": "https://audio.jukehost.co.uk/3XPLoUpLP6oJPnadYsliiPfA3mkvMjvU",
+    "name": "Letter Song",
+    "artist": "Hatsune Miku"
+  },
+  {
+    "url": "https://audio.jukehost.co.uk/0w9zU6n1FjCrxcMzyTBBotdhdzvP0TMA",
+    "name": "Though My Song Has No Form",
+    "artist": "Hatsune Miku"
+  },
+  {
+    "url": "https://audio.jukehost.co.uk/y1gE2dfZxNTwD680uqIWnvN9wo8sZDt0",
+    "name": "Suki Kirai",
+    "artist": "Kagamine Rin & Len"
+  },
+  {
+    "url": "https://audio.jukehost.co.uk/CkH5NhwgDe5PDRsmbXzRazMYhSqqnRGX",
+    "name": "Butterfly on your right shoulder",
+    "artist": "Kagamine Rin & Len"
+  },
+  {
+    "url": "https://audio.jukehost.co.uk/y221BbP9fCpzZiYckoNfIQK29yO7PcEg",
+    "name": "Fire Flower",
+    "artist": "Kagamine Len"
+  },
+  {
+    "url": "https://audio.jukehost.co.uk/0pZ5rYx5fSJlQUnlpiu5e64Mw3SxENhO",
+    "name": "Bring it on!",
+    "artist": "Kagamine Rin & Len"
+  },
+  {
+    "url": "https://audio.jukehost.co.uk/A9mQRntUoRLlD3LMLwKKUMxObh8Da9J3",
+    "name": "Error",
+    "artist": "Galaco"
+  },
+  {
+    "url": "https://audio.jukehost.co.uk/HDYdenvTflSoMkNLCVq06HqLLPlFYFxu",
+    "name": "Ghost Rule",
+    "artist": "Hatsune Miku"
+  },
+  {
+    "url": "https://audio.jukehost.co.uk/WEUFF8BtAgXS4bzQNDEs65dESnZxfqTu",
+    "name": "Ah, its a wonderful cat Life",
+    "artist": "Gumi Megpoid & Len Kagamine"
+  },
+  {
+    "url": "https://audio.jukehost.co.uk/VaOtk1qIsSZigS3LbovgYjLmFl9s1g7j",
+    "name": "Copycat",
+    "artist": "Gumi Megpoid"
+  },
+  {
+    "url": "https://audio.jukehost.co.uk/bq6JEElzJoMUHDw2I7eHwRMinEFhwIsc",
+    "name": "ECHO",
+    "artist": "Gumi Megpoid"
+  },
+  {
+    "url": "https://audio.jukehost.co.uk/QWboczqTVPgXgQNZLt5PBlMo0k5VzO4q",
+    "name": "Donut Hole",
+    "artist": "Gumi Megpoid"
+  },
+  {
+    "url": "https://audio.jukehost.co.uk/cKF980ECZTLjX6QjeLfAfd4gegm1nr1j",
+    "name": "KILLER LADY",
+    "artist": "Hatsune Miku"
+  },
+  {
+    "url": "https://audio.jukehost.co.uk/HDYdenvTflSoMkNLCVq06HqLLPlFYFxu",
+    "name": "Ghost Rule",
+    "artist": "Hatsune Miku"
+  },
+  {
+    "url": "https://audio.jukehost.co.uk/8j2yMK8LoOsQgmjrvRjM1PyrYmnyB6W4",
+    "name": "Matryoshka",
+    "artist": "Hatsune Miku"
+  },
+  {
+    "url": "https://audio.jukehost.co.uk/p7z4qgmmLpjYAzCmPmnpoai0Yc4W8kWG",
+    "name": "118",
+    "artist": "Hatsune Miku"
+  },
+  {
+    "url": "https://audio.jukehost.co.uk/bAVMFyV7NJEwBxtfurJwPpet4htraChk",
+    "name": "2Dimension Fever",
+    "artist": "Hatsune Miku"
+  },
+  {
+    "url": "https://audio.jukehost.co.uk/k30kk9zXiYvJwYGx8oEsO9P07Hl3DbOM",
+    "name": "Ai Kotoba III",
+    "artist": "Hatsune Miku"
+  },
+  {
+    "url": "https://audio.jukehost.co.uk/23q8pAifK4I3CJI9vbKvxHbswQufebIJ",
+    "name": "Ai Kotoba II",
+    "artist": "Hatsune Miku"
+  },
+  {
+    "url": "https://audio.jukehost.co.uk/MSMokLUMVpD4uewy2N19ly1QqNjbz0iS",
+    "name": "Ai no uta",
+    "artist": "Hatsune Miku"
+  },
+  {
+    "url": "https://audio.jukehost.co.uk/Xochgh2cxJpsHvuSPFkkNLGOl0DzWkJN",
+    "name": "Alice Human Sacrifice",
+    "artist": "Hatsune Miku"
+  },
+  {
+    "url": "https://audio.jukehost.co.uk/GoIbBN4mvtFgB8EpqQORnKNfcyf0rRQs",
+    "name": "Alien alien",
+    "artist": "Hatsune Miku"
+  },
+  {
+    "url": "https://audio.jukehost.co.uk/sjWoxfIddFJlqTQOB4vb2nFRIjFPP46N",
+    "name": "Bacterial Contamination",
+    "artist": "Hatsune Miku"
+  },
+  {
+    "url": "https://audio.jukehost.co.uk/RTk7OEsEK8amacuKrd5UmPKupAw0qDej",
+    "name": "Blue Star",
+    "artist": "Hatsune Miku"
+  },
+  {
+    "url": "https://audio.jukehost.co.uk/SOZBfscwR0Tz16EntO5x0Peds4wVUGRf",
+    "name": "Corpse Attack!!",
+    "artist": "Hatsune Miku"
+  },
+  {
+    "url": "https://audio.jukehost.co.uk/Vg8uKYmZF4yLS8aWnzaa8S1TeWKNFveE",
+    "name": "Decade",
+    "artist": "Hatsune Miku"
+  },
+  {
+    "url": "https://audio.jukehost.co.uk/rVGVtTh5x8DE6dyG6dQB5xgxRKtsWFbS",
+    "name": "Deep Sea Girl",
+    "artist": "Hatsune Miku"
+  },
+  {
+    "url": "https://audio.jukehost.co.uk/xAngDo0eo4RW40ehRBFCsQHkhDIh47YT",
+    "name": "Eh, ah, sou?",
+    "artist": "Hatsune Miku"
+  },
+  {
+    "url": "https://audio.jukehost.co.uk/p5F35dcyNYyUsAyhvIBNPQqoC2CYvWkk",
+    "name": "Greenlights Serenade",
+    "artist": "Hatsune Miku"
+  },
+  {
+    "url": "https://audio.jukehost.co.uk/sDoMSCEC4TABqEfOfLuh0gRjrJcgzyoM",
+    "name": "Hand in hand",
+    "artist": "Hatsune Miku"
+  },
+  {
+    "url": "https://audio.jukehost.co.uk/co76p8u30w7XRDrWdaabJ2CGdCSnNhnW",
+    "name": "Hello, how are you?",
+    "artist": "Hatsune Miku"
+  },
+  {
+    "url": "https://audio.jukehost.co.uk/AJitDCQ94Ioy7bP0JtBwFj1UpI4i2F3q",
+    "name": "Hibikase",
+    "artist": "Hatsune Miku"
+  },
+  {
+    "url": "https://audio.jukehost.co.uk/bEONqlE44riYtbikCsaZd4iS5lmJvPOc",
+    "name": "Kimagure Mercy",
+    "artist": "Hatsune Miku"
+  },
+  {
+    "url": "https://audio.jukehost.co.uk/J4hTL2XbgEsL0x60QxS8KbVNZ0IBSuxm",
+    "name": "Knife",
+    "artist": "Hatsune Miku"
+  },
+  {
+    "url": "https://audio.jukehost.co.uk/xC0Q2hQe3Ex7DucNv1829oiPol1xXySd",
+    "name": "Last night, good night",
+    "artist": "Hatsune Miku"
+  },
+  {
+    "url": "https://audio.jukehost.co.uk/ARSLKZNOf4Rdg1Awtv4Um1DMkvA3VsXp",
+    "name": "Look this way baby!",
+    "artist": "Hatsune Miku"
+  },
+  {
+    "url": "https://audio.jukehost.co.uk/10jb1O2WuLlGzeTBqyVEiN64A7X5z1qQ",
+    "name": "Lucky Orb",
+    "artist": "Hatsune Miku"
+  },
+  {
+    "url": "https://audio.jukehost.co.uk/zqdKBZdCIkoyQTSyj9jVv7Ghd3y3sIf7",
+    "name": "METEOR",
+    "artist": "Hatsune Miku & Divela"
+  },
+  {
+    "url": "https://audio.jukehost.co.uk/HMh9d0uDmI2Y3S5HAoLoa1B90GcJ6hB2",
+    "name": "Miracle Paint",
+    "artist": "Hatsune Miku"
+  },
+  {
+    "url": "https://audio.jukehost.co.uk/HTZep79f2Oc9HNPoMjmwKZQdeoeOgfDQ",
+    "name": "Musunde Hiraite Rasetsu to Mukuro",
+    "artist": "Hatsune Miku"
+  },
+  {
+    "url": "https://audio.jukehost.co.uk/e9a83AxJf5oUUkf0ewdyg6BwcMqszQeI",
+    "name": "ODDS&ENDS",
+    "artist": "Hatsune Miku"
+  },
+  {
+    "url": "https://audio.jukehost.co.uk/xLcIfe1EewCkjleKP4OzjsqqtQ24MTp2",
+    "name": "PoPiPo",
+    "artist": "Hatsune Miku"
+  },
+  {
+    "url": "https://audio.jukehost.co.uk/W7uHE1AhRABCwJSBDbzjLYOjazBMf0Zh",
+    "name": "Rversible Campaign",
+    "artist": "Hatsune Miku"
+  },
+  {
+    "url": "https://audio.jukehost.co.uk/esPSdYcaJWrSrYsYmnCRdQLVrIuePIgI",
+    "name": "Romeo & Cinderella",
+    "artist": "Hatsune Miku"
+  },
+  {
+    "url": "https://audio.jukehost.co.uk/ogQQjIGrU4mLLd4uoEwUi67HCqgslI70",
+    "name": "Sadistic.Music Factory",
+    "artist": "Hatsune Miku"
+  },
+  {
+    "url": "https://audio.jukehost.co.uk/eOL67c7VOnT6wTiYyhcIrW1xy3MK77SC",
+    "name": "Sand Planet",
+    "artist": "Hatsune Miku"
+  },
+  {
+    "url": "https://audio.jukehost.co.uk/j4G5dPe6K0ABQCQxysDwYHdsrgMXE4Dm",
+    "name": "Skeleton Orchestra and Lilia",
+    "artist": "Hatsune Miku"
+  },
+  {
+    "url": "https://audio.jukehost.co.uk/tTbX9G9PSnqVdXf0m4AiwPnYkwwMREx3",
+    "name": "Star Fragment",
+    "artist": "Hatsune Miku"
+  },
+  {
+    "url": "https://audio.jukehost.co.uk/xSzybGgSgjz7TowF7oOqhguFW7rVmmMU",
+    "name": "Starduster",
+    "artist": "Hatsune Miku"
+  },
+  {
+    "url": "https://audio.jukehost.co.uk/gqwNfsmAVqYib1J5eVkHyjhHcVyxIZyc",
+    "name": "Strangers",
+    "artist": "Hatsune Miku"
+  },
+  {
+    "url": "https://audio.jukehost.co.uk/MrSQFwERXI3LcN8982xp0lpWIbeCVuLx",
+    "name": "Sweet devil",
+    "artist": "Hatsune Miku"
+  },
+  {
+    "url": "https://audio.jukehost.co.uk/gHOQZXcDiItR7zgp8OF4xhLL0e7np2fi",
+    "name": "Tell Your World",
+    "artist": "Hatsune Miku"
+  },
+  {
+    "url": "https://audio.jukehost.co.uk/5IWMd8oRTnsEpquKtlAvAmnyVf4k604u",
+    "name": "The Disappearance of Hatsune Miku",
+    "artist": "Hatsune Miku"
+  },
+  {
+    "url": "https://audio.jukehost.co.uk/rhnSrWFvi9btrPVfNvnPn6EGQ2w2zNRs",
+    "name": "The snow white princes is",
+    "artist": "Hatsune Miku"
+  },
+  {
+    "url": "https://audio.jukehost.co.uk/QX8mPWIHVn0vpwEKUkrqx7F9Bobh7Gba",
+    "name": "Two Faced Lovers",
+    "artist": "Hatsune Miku"
+  },
+  {
+    "url": "https://audio.jukehost.co.uk/cPbV4xskL9ZVGsY4Y0z2GAqDV2Rj81Dd",
+    "name": "Unhappy refrain",
+    "artist": "Hatsune Miku"
+  },
+  {
+    "url": "https://audio.jukehost.co.uk/FBYvhlj52SwtF3SiJnyQ9RDTH5bEpqFI",
+    "name": "Unknown Mother Goose",
+    "artist": "Hatsune Miku"
+  },
+  {
+    "url": "https://audio.jukehost.co.uk/1j2bIJiTqG2VeTDTPnsoQKYx088sMyXg",
+    "name": "Viva happy",
+    "artist": "Hatsune Miku"
+  },
+  {
+    "url": "https://audio.jukehost.co.uk/x1xBiSFZdI6nJNhIpSAVxdUKgqLzr0mN",
+    "name": "Worlds End Dancehall",
+    "artist": "Hatsune Miku"
+  },
+  {
+    "url": "https://audio.jukehost.co.uk/LnC9WSBlOSCGl12rSki9wZvLsQ8HkpT1",
+    "name": "I'm glad you're also a bad person",
+    "artist": "Hatsune Miku & Rin Kagamine"
+  },
+  {
+    "url": "https://audio.jukehost.co.uk/YfQMGQIBE17myeWiReH1jmln61rkY7XI",
+    "name": "a tale of six trillion years and a night",
+    "artist": "IA"
+  },
+  {
+    "url": "https://audio.jukehost.co.uk/f7wWNCVgN6XuKWsCm34yvZhoe5ojDsrk",
+    "name": "Gekokujou",
+    "artist": "Kagamine Rin & Len"
+  },
+  {
+    "url": "https://audio.jukehost.co.uk/1mat3I0ZK3tVGlNUhFxdQSdtSOZSiXCW",
+    "name": "Dream-Eating Monochrome Baku ",
+    "artist": "Kagamine Len"
+  },
+  {
+    "url": "https://audio.jukehost.co.uk/gqkSx0v7rKypkcFUUkLuCd6uwhBV2TrY",
+    "name": "Spice!",
+    "artist": "Kagamine Len"
+  },
+  {
+    "url": "https://audio.jukehost.co.uk/BMKzBzmWRsooMtiMAWuQcTmAPUJ597S7",
+    "name": "The servant of evil",
+    "artist": "Kagamine Len"
+  },
+  {
+    "url": "https://audio.jukehost.co.uk/ubEh8NzuryDRd3sR3V38uQhdrVJ1WHzo",
+    "name": "Trick & treat",
+    "artist": "Kagamine Rin & Len"
+  },
+  {
+    "url": "https://audio.jukehost.co.uk/yYGjGJoYX93G7pc6NFB3v7LUbUy4PFS4",
+    "name": "Remote Controller",
+    "artist": "Kagamine Rin & Len"
+  },
+  {
+    "url": "https://audio.jukehost.co.uk/YZjm5gBaYAKBZIDLxzIsaTcDqAcwMNAG",
+    "name": "Daughter of evil",
+    "artist": "Kagamine Rin"
+  },
+  {
+    "url": "https://audio.jukehost.co.uk/ZvSrvCOiFy4Z1j605EWAy8WzoX51kImN",
+    "name": "Himitsu Kuro no Chikai",
+    "artist": "Kagamine Rin"
+  },
+  {
+    "url": "https://audio.jukehost.co.uk/Vg0FX1Dj8hEjV2mxF9qRsNFgmbQ77kAz",
+    "name": "Meltdown",
+    "artist": "Kagamine Rin"
+  },
+  {
+    "url": "https://audio.jukehost.co.uk/NdHWFDLzObZiWcAi5vCjDZjvJDHPmpwn",
+    "name": "Regret message",
+    "artist": "Kagamine Rin"
+  },
+  {
+    "url": "https://audio.jukehost.co.uk/7RqqQANak4eVQw0kSw3cQwtaspwqjR1j",
+    "name": "ROKI",
+    "artist": "Kagamine Rin"
+  },
+  {
+    "url": "https://audio.jukehost.co.uk/VG0vUAvyqyH1JKndKfvzutFYUkosZQMR",
+    "name": "Sigh",
+    "artist": "Kagamine Rin"
+  },
+  {
+    "url": "https://audio.jukehost.co.uk/4Ty9JytWtZ4KilAIJzGLISJSV336UEez",
+    "name": "The Lost One's Weeping",
+    "artist": "Kagamine Rin"
+  },
+  {
+    "url": "https://audio.jukehost.co.uk/pdYPqPube9Rpdz6pRFXilAPKFg8Mhw2f",
+    "name": "Tokyo Teddy Bear",
+    "artist": "Kagamine Rin"
+  },
+  {
+    "url": "https://audio.jukehost.co.uk/57IepdeWgVw4oxPafOuXziEXs9HAL7RI",
+    "name": "kagome kagome",
+    "artist": "Vocaloid"
+  },
+  {
+    "url": "https://audio.jukehost.co.uk/1U9ausT0FoGCapGDhzCCDlPD46Ax6p6F",
+    "name": "Judgement of Corruption",
+    "artist": "Kaito"
+  },
+  {
+    "url": "https://audio.jukehost.co.uk/af54ppN7XgGUNA30FcgAaF4bYQG5roJf",
+    "name": "Catch the Wave",
+    "artist": "Hatsune Miku"
+  },
+  {
+    "url": "https://audio.jukehost.co.uk/X5NvLmLWC8exvM5ZsrZD7vBBrPQ60Nw7",
+    "name": "Luka Luka Night Fever",
+    "artist": "Luka Megurine"
+  },
+  {
+    "url": "https://audio.jukehost.co.uk/DEqdj1k9mKhAcLwEGzOG7U7EQIUugwZ6",
+    "name": "Double Lariat",
+    "artist": "Luka Megurine"
+  },
+  {
+    "url": "https://audio.jukehost.co.uk/aj1auLjGGa7s10M32xVGT7nfGlGG1RFe",
+    "name": "Dreaming Chuchu!",
+    "artist": "Luka Megurine"
+  },
+  {
+    "url": "https://audio.jukehost.co.uk/oMVdEyC2ZTi1ZxsALCPRwQAxMLTZKdTX",
+    "name": "No Logic!",
+    "artist": "Luka Megurine"
+  },
+  {
+    "url": "https://audio.jukehost.co.uk/5SAy3ElTNHsuJVZlH6ep99GmNeIjPwtA",
+    "name": "Promise",
+    "artist": "Hatsune Miku & Kagamine Rin"
+  },
+  {
+    "url": "https://audio.jukehost.co.uk/7RT4tarrot1O4wVhHoUePNiA4z0kbofE",
+    "name": "39 Music!",
+    "artist": "Hatsune Miku"
+  },
+  {
+    "url": "https://audio.jukehost.co.uk/ywzCN8LnD3lJkVZWRiesVj7AkHZfFKCf",
+    "name": "Rolling Girl",
+    "artist": "Hatsune Miku"
+  },
+  {
+    "url": "https://audio.jukehost.co.uk/NwcPXaHC6atFogtso35Ekc6EylvKHVGK",
+    "name": "World is Mine",
+    "artist": "Hatsune Miku"
+  },
+  {
+    "url": "https://audio.jukehost.co.uk/hZ6ga5F2tzt56ZEArob6jIy3h6ATxB3X",
+    "name": "Ai Kotoba",
+    "artist": "Hatsune Miku"
+  },
+  {
+    "url": "https://audio.jukehost.co.uk/98tx31NOJPiE1fXfPxyXPRtUFeF9kWn6",
+    "name": "Levan Polka",
+    "artist": "Hatsune Miku"
+  },
+  {
+    "url": "https://audio.jukehost.co.uk/fJOmCDQSSUzHVbd9rEJj3cotQudX4ugn",
+    "name": "Melt",
+    "artist": "Hatsune Miku"
+  },
+  {
+    "url": "https://audio.jukehost.co.uk/MDCQZN61znfsf6RCBGFVoiunLWlRgU9J",
+    "name": "Senbonsakura",
+    "artist": "Hatsune Miku"
+  },
+  {
+    "url": "https://audio.jukehost.co.uk/6Lr3drzT5rh8V1mRD2jvRvr4QyZCGU0z",
+    "name": "Cantarella",
+    "artist": "Hatsune Miku & Kaito"
+  },
+  {
+    "url": "https://audio.jukehost.co.uk/rZfrBYrF1WGbLIAhHBp3ae5VYdPDwXCW",
+    "name": "Cat Food",
+    "artist": "Hatsune Miku"
+  },
+  {
+    "url": "https://audio.jukehost.co.uk/QQsYhLNrw3naLNfeFrjWQ0H4z4gohkFX",
+    "name": "The Lunacy of Duke Venomania",
+    "artist": "Kamui Gakupo"
+  },
+  {
+    "url": "https://audio.jukehost.co.uk/ZZy5CYtb1YvdZNQbRYWgBi7jLaFtGVQf",
+    "name": "Teo",
+    "artist": "Hatsune Miku"
+  },
+  {
+    "url": "https://audio.jukehost.co.uk/IKN4g99W8RsGcNiBbgD7ECU8ZM7OYQJH",
+    "name": "Star Night Snow",
+    "artist": "Hatsune Miku"
+  },
+  {
+    "url": "https://audio.jukehost.co.uk/w9s2dypOSgQHUAM419hf9ajGId8rVYp3",
+    "name": "slowmotion",
+    "artist": "Hatsune Miku"
+  },
+  {
+    "url": "https://audio.jukehost.co.uk/bI5adYw1zAOdsaxfyJ9g8hCUZwwyMtxI",
+    "name": "Happy Halloween",
+    "artist": "Kagamine Rin & Len"
+  },
+  {
+    "url": "https://audio.jukehost.co.uk/FTv8QqFd60XndwDpH0X77GMAjcQ7lS6q",
+    "name": "Rin rin high mind",
+    "artist": "Kagamine Rin"
+  },
+  {
+    "url": "https://audio.jukehost.co.uk/oVFYN7jW8kZP8lM4ozfsa2PjH0UWwJOe",
+    "name": "ひねくれ者",
+    "artist": "Hatsune Miku"
+  },
+  {
+    "url": "https://audio.jukehost.co.uk/v9cr0Cw8enBUCnNfuUqudadbgeB6mP43",
+    "name": "1-6 out of the gravity",
+    "artist": "Hatsune Miku"
+  },
+  {
+    "url": "https://audio.jukehost.co.uk/zark2kwUBo3ntxqPySSXXnh902ot3nOY",
+    "name": "Bad end night",
+    "artist": "Vocaloid"
+  },
+  {
+    "url": "https://audio.jukehost.co.uk/jJD8elz5zlD89DLQmHoC09aSV46wdAv5",
+    "name": "Blessed Messiah and the Tower of AI",
+    "artist": "Hatsune Miku"
+  },
+  {
+    "url": "https://audio.jukehost.co.uk/ddQrdMXHUKtdN7XavwZ48rr9c3LoLIM7",
+    "name": "Weekender Girl",
+    "artist": "Hatsune Miku"
+  },
+  {
+    "url": "https://audio.jukehost.co.uk/tjVVC3qrefRO7xk8zybWUGjwWHTt1r6a",
+    "name": "PaⅢ.INCEPTION",
+    "artist": "Hatsune Miku"
+  },
+  {
+    "url": "https://audio.jukehost.co.uk/SgAHnGdsTZFyt5IBb0k5Niw4ZIXcdYnD",
+    "name": "Juveline",
+    "artist": "Kagamine Rin & Len"
+  },
+  {
+    "url": "https://audio.jukehost.co.uk/5r7Vweye4lfaOXZwfP0btVAalCRXZKLH",
+    "name": "Spinal Fluid Explosion Girl",
+    "artist": "Kagamine Rin & Len "
+  }
+]
